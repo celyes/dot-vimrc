@@ -1,5 +1,5 @@
-"vimrc file maintained by Damian Michalski for personal use
-"Based on vimrc from Marek Tkaczyk
+"vimrc file By celyes
+"GitHub: @celyes
 
 " NOTE: you need to create 'backup', 'swap', 'undo' and undodir folders inside ~/.vim
 " NOTE: in order for airline to look good, you need to install and select powerline fonts pack
