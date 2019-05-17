@@ -22,6 +22,9 @@ In order to make this file run correctly, you should have vim.basic because some
 If the problem persists, run the following commands from the terminal:
 
 `sudo apt update
+
 sudo apt install vim
+
 sudo apt-get install vim-gui-common
+
 sudo apt-get install vim-runtime`
