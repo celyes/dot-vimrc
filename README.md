@@ -15,6 +15,14 @@
  
  3 - confirm replacement.
  
+ 4 - install vim-plug by typing this command:
+    
+```bash
+git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/plugin/Vundle.vim
+```
+ 5 -
+
+
  ** NOTE **
  
 In order to make this file run correctly, you should have vim.basic because some linux distrbutions such as Ubuntu come with vim.tiny version.
