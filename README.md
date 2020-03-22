@@ -6,7 +6,11 @@
 
 #### Requirements:
 
-no requirements needed.
+install cURL library:
+
+```bash
+sudo apt-get install curl
+```
 
 #### Usage:
 
