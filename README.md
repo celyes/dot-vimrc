@@ -31,5 +31,5 @@ mv vimrc ~/.vimrc
 ```
 5 - install vim-plug:
 ```bash
-git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/plugin/Vundle.vim
+git clone https://github.com/VundleVim/Vundle.vim ~/.vim/plugin/Vundle.vim
 ```
